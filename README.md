@@ -1,4 +1,4 @@
-=# 🫀 PranaAI: MedCardio (GAP-Optimized)
+=# 🫀 PranaAI: MedCardio (GAP-Optimized)   download and run PRANAI PROTOCOL GAP
 
 ### ⚡ The "GAP" Innovation
 Unlike standard models that use heavy `Flatten` layers, MedCardio uses **Global Average Pooling (GAP)**.
